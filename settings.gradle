@@ -1,0 +1,11 @@
+rootProject.name='ribbon-2.3.0'
+include 'ribbon-core',
+        'ribbon-loadbalancer',
+        'ribbon-httpclient',
+        'ribbon-eureka',
+        'ribbon-transport',
+        'ribbon-examples',
+        'ribbon-test',
+        'ribbon-guice',
+        'ribbon',
+        'ribbon-evcache'
